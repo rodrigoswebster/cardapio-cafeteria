@@ -1,0 +1,14 @@
+.img{ 
+    text-align: center;
+    float: left;
+    width: 25%;
+
+}
+.titulo {
+    text-align: center;
+    width: 50%;
+}
+
+.button {
+    color: lightgreen
+}   
